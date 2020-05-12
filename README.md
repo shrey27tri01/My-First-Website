@@ -32,6 +32,8 @@ Contains basic functionalities that govern the working of the webpages.
 
 Every page has a navigation bar at the top, just below the heading, so that you can get from any webpage to any other webpage!!
 
+To view the website online, visit https://shrey27tri01.github.io/My-First-Website/index.html# !!!
+ 
 
 
 
